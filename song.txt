@@ -1,6 +1,6 @@
 sword and spear
 wall of shields
-standing strong
+standing strongq
 on this their chosen battle field
 
 Form the lines
@@ -14,3 +14,5 @@ Oden's sons
 Attack!
 
 feature
+
+only for tag
